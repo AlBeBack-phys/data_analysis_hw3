@@ -1,4 +1,3 @@
-
 from scipy.integrate import quad
 import json
 import matplotlib.pyplot as plt
