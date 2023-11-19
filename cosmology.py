@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 15 22:49:26 2023
 
-@author: golikovalex
-"""
 from scipy.integrate import quad
 import json
 import matplotlib.pyplot as plt
